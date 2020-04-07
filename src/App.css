@@ -1,0 +1,18 @@
+.App {
+  text-align: left;
+  width: 960px;
+  margin: 0 auto;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.container{
+  width: 800px;
+}
+
+header{
+  margin-bottom: 40px;
+  margin-top: 80px;
+}
