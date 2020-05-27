@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,16 +66,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-﻿# noiton-test
-
-Тестовое задание "Форма отправки сообщений" для позиции Frontend-разработчик. Реализовано на React+Redux.
-Макет: https://www.figma.com/file/dCM3HsX0D9gD84angpbUB3oP/Test-exercise?node-id=0%3A1.
-
-Установка:
-
-cd client
-
-npm start
-
->>>>>>> f3a1e5569b90113d508c1c272f914ac369fbc887
